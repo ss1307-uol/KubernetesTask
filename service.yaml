@@ -27,8 +27,8 @@ spec:
         app: hello-python
     spec:
       containers:
-      - name: mypyweb
-        image: mypyweb:latest
+      - name: pywebdemo
+        image: pywebdemo:latest
         imagePullPolicy: Never
         ports:
         - containerPort: 5000
