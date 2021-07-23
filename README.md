@@ -39,6 +39,6 @@ prerequisite for windows 10 Home edition
 
 ### Cleanup
 1. kubectl delete service hello-python
-2. kubectl delete deployement hello-python
-3. minikube stop ot minikube delete
+2. kubectl delete deployment hello-python
+3. minikube stop OR minikube delete
 
