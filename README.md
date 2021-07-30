@@ -1,4 +1,4 @@
-## Python hello world app running in minikube and  
+## Python hello world app running in kubernetes cluster (using minikube)  
 ### This Solution is simple application written in python which will print 'Hello World' with hostname where it is running on.
 
 ### Step 1-
